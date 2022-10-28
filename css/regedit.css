@@ -1,0 +1,190 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.rmain{
+	height: 930px;
+	width: 100%;
+	background-color: #f7f7f7;
+	overflow: hidden;
+}
+.rmain-list{
+	height: 830px;
+	width: 1080px;
+	background: #ffffff;
+	margin: 100px auto;
+	overflow: hidden;
+}
+.rlogo{
+	width: 100%;
+	text-align: center;
+}
+.rlogo img{
+	transform: scale(0.25);
+}
+.rbottom{
+	height: 268px;
+	background-color: #f7f7f7;
+}
+.re-text{
+	width: 100%;
+	text-align: center;
+	margin-top: -40px;
+	font-size: 30px;
+	color: #000;
+}
+.rselect{
+	width: 300px;
+	height: 50px;
+	font-size: 20px;
+}
+.address{
+	width: 452px;
+	height: 60px;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	margin-top: 75px;
+	line-height: 60px;
+}
+.addr-left{
+	float: left;
+	font-size: 20px;
+	padding-left: 15px;
+}
+.address .addr-right{
+	float: right;
+	font-size: 30px;
+	margin-right: 20px;
+}
+.then{
+	margin: 0 auto;
+	padding:15px 0;
+	width: 452px;
+	font-size: 18px;
+	color: #999;
+}
+
+.tphone{
+	height: 60px;
+	width: 452px;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+}
+.tphone-left{
+	position: relative;
+	float: left;
+	width: 120px;
+	height: 58px;
+	line-height: 58px;
+}
+
+
+.phonecode{
+	float: left;
+	width: 60px;
+	height: 58px;
+	padding-left: 18px;
+	font-size: 20px;
+	color: #000;
+	
+}
+.tphone-left .icdown{
+	float: left;
+	width: 60px;
+	height: 58px;
+	padding-left: 15px;
+	font-size: 20px;
+}
+
+.tphone-right{
+	float: left;
+	height: 58px;
+	width: 328px;
+	background-color: pink;
+}
+.tphone-right input{
+	height: 100%;
+	width: 100%;
+	font-size: 20px;
+}
+
+.tcheckbox{
+	height: 60px;
+	width: 450px;
+	margin: 0 auto;
+	margin-top: 10px;
+	font-size: 18px;
+	line-height: 60px;
+}
+.tcheckbox input{
+	width: 20px;
+	height: 20px;
+	vertical-align: middle;
+}
+.sercolor{
+	color: #456fff;
+}
+.sercolor:hover{
+	color: #456fff;
+}
+.next-to{
+	width: 452px;
+	height: 60px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+.next-to input{
+	width: 100%;
+	height: 100%;
+	background-color: #456fff;
+	font-size: 20px;
+	color: #ffffff;
+}
+.list-bottom{
+	height: 270px;
+	background-color: #f7f7f7;
+	overflow: hidden;
+}
+.btm-one{
+	width: 420px;
+	height: 30px;
+	line-height: 30px;
+	margin: 0 auto;
+	margin-top: 170px;
+	font-size: 16px;
+}
+.sright{
+	float: right;
+}
+.btm-one .icon-zaixiankefu{
+	float: left;
+	font-size:25px;
+	padding-right: 13px;
+}
+.btm-one a{
+	float: left;
+	color: #666;
+}
+
+.line{
+	float: left;
+}
+
+.list-bottom .btm-one .smiddle{
+	float: left;
+	font-size: 25px;
+	padding-left: 20px;
+}
+.btm-one>a:hover{
+	color: #418eff;
+}
+.list-end{
+	width: 946px;
+	height:50px;
+	line-height: 35px;
+	margin: 0 auto;
+	font-size: 14px;
+	color: #9d9d9d;
+	text-align: center;
+}
